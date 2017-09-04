@@ -1,0 +1,40 @@
+Sith
+Kaggar
+Nerek
+Hlervu
+A'tok
+Azaa
+Na'tak
+Na'tek
+Ka'aln
+K'vora
+K'atuth
+N'vora
+N'vorik
+Min'ja
+Kazega
+Kegu
+Arlvor
+Unk
+Do'kur
+K'vorlo
+var Sith
+var Kaggar
+var Nerek
+var Hlervu
+var A'tok
+var Azaa
+var Na'tak
+var Na'tek
+var Ka'aln
+var K'vora
+var K'atuth
+var N'vora
+var N'vorik
+var Min'ja
+var Kazega
+var Kegu
+var Arlvor
+var Unk
+var Do'kur
+var K'vorlo
